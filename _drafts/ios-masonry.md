@@ -1,0 +1,3 @@
+#iOS Auto Layout using Masonry
+
+I kept telling myself I was going to use auto layout but could never bring myself to do it in the end. Maybe I just thought what I was currently doing was fine and I didn't need to change. I would always start a view and say "I'm going to use auto layout here for sure!" but then I found myself getting frustrated and I would just uncheck the auto layout checkbox. I then scrapped trying to use interface builder for my auto layout needs and went straight to code. But that wasn't pretty either. It was just too much code.
